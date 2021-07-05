@@ -1,5 +1,5 @@
 # hello-world
 Repository test
-Hi ! 
+Hi! 
 
 My name is Alexis, and i'm a Github newcomer!
